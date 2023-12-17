@@ -1,3 +1,3 @@
 # mera_college
 this is my git repository <br>
-author -- abu vakar
+author -- abu vakar siddique
